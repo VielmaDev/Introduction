@@ -1,8 +1,6 @@
-# Introducting-oneself
-
 <div aling="center">
 
-  <img src="https://github.com/VielmaDev/thecompilater/assets/121409131/9c2244ee-e2fb-4dd9-87c2-fc097cf5ef32">
+  <img src="https://github.com/VielmaDev/Introducting-oneself/assets/121409131/fee95d27-a160-4531-bdce-516ad34dc62b">
 
 </div>
 
