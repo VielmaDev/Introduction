@@ -26,9 +26,9 @@
     <div class="col">
       <img src="https://github.com/VielmaDev/Introduction/assets/121409131/6256ad4c-fbb0-4393-b4f6-c70be08bd5ed" width="150px" height="150px">
       <img src="https://github.com/VielmaDev/Introduction/assets/121409131/7986692d-1680-4b7e-a421-4784ed293d5d" width="130px" height="130px">
-      <img src="https://github.com/VielmaDev/Introduction/assets/121409131/5fec75b2-993f-47a2-a0c3-af1fb417067f" width="150px" height="150px">
+      <img src="https://github.com/VielmaDev/Introduction/assets/121409131/5fec75b2-993f-47a2-a0c3-af1fb417067f" width="130px" height="130px">
        <img src="https://github.com/VielmaDev/Introduction/assets/121409131/2402c0a2-e4d6-4f17-9949-92178f4eeed5" width="120px" height="120px">
-      <img src="https://github.com/VielmaDev/Introduction/assets/121409131/320d88d8-d51e-4300-8171-8ca888e23dc0" width="110px" height="110px">
+      <img src="https://github.com/VielmaDev/Introduction/assets/121409131/320d88d8-d51e-4300-8171-8ca888e23dc0" width="120px" height="120px">
      
 
 <!--Logo Python-->
