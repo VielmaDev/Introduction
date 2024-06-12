@@ -1,26 +1,26 @@
-<div class= "container" style="aling=center">
+<div class="container text-center">
   <img src="https://github.com/VielmaDev/Introduction/assets/121409131/ddfbf4c3-714e-4e43-a53b-8b766358ed60" width="400px" height="400px" aling="center">
 </div>
 
-<div class= "container" style="aling=center">
+<div class="container text-center">
   <h1> Hola!👋, mi nombre es José Vielma </h1>
   <h3 aling="center">Soy desarrollador Frontend, autodidacta, con pasión por el diseño de web app con Python. </h3>
 </div>
 
-<div class= "container" style="aling=justify">
+<div class="container text-justify">
   <h3>
     La programación impulsa mi creatividad 💡, transformando mis ideas en realidades digitales. Me gusta explorar las nuevas tecnologías 🤖, que son tendencia y que me permiten 
     mejorar cada día mis habilidades 🤓, para así, ofrecer soluciones vanguardistas 🚀.
   </h3>
 </div>
 
-<div class="container" style="aling=justify">
+<div class="container text-justify">
   <h3>
     Tecnologías de uso:
   </h3>
 </div>
 
-<div class="container">
+<div class="container aling-item-center">
   <img src="https://github.com/VielmaDev/Introduction/assets/121409131/6256ad4c-fbb0-4393-b4f6-c70be08bd5ed" width="150px" height="150px">
   <img src="https://github.com/VielmaDev/Introduction/assets/121409131/320d88d8-d51e-4300-8171-8ca888e23dc0" width="100px" height="100px">
   <img src="https://github.com/VielmaDev/Introduction/assets/121409131/2402c0a2-e4d6-4f17-9949-92178f4eeed5" width="90px" height="90px">
