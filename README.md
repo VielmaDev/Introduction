@@ -1,5 +1,5 @@
 <div class="container">
-  <img src="https://github.com/VielmaDev/Introduction/assets/121409131/ddfbf4c3-714e-4e43-a53b-8b766358ed60" width="350px" height="350px">
+  <img src="https://github.com/VielmaDev/Introduction/assets/121409131/ddfbf4c3-714e-4e43-a53b-8b766358ed60" width="350px" height="350px" aling-item="center">
 </div>
 
 <div class="container">
@@ -24,13 +24,11 @@
 <div class="container">
   <div class="row">
     <div class="col">
-      <img src="https://github.com/VielmaDev/Introduction/assets/121409131/6256ad4c-fbb0-4393-b4f6-c70be08bd5ed">
+      <img src="https://github.com/VielmaDev/Introduction/assets/121409131/6256ad4c-fbb0-4393-b4f6-c70be08bd5ed" width="100px" height="100px">
       <img src="![Uploading django.svg…]()">
       <img src="https://github.com/VielmaDev/Introduction/assets/121409131/320d88d8-d51e-4300-8171-8ca888e23dc0">
       <img src="https://github.com/VielmaDev/Introduction/assets/121409131/2402c0a2-e4d6-4f17-9949-92178f4eeed5" width="90px" height="90px">
-    </div>
-  </div>
-</div>
+   
 
 <!--Logo Python-->
 <svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" fill="none" viewBox="0 0 64 64"><path fill="url(#a)" d="M31.885 16c-8.124 0-7.617 3.523-7.617 3.523l.01 3.65h7.752v1.095H21.197S16 23.678 16 31.876c0 8.196 4.537 7.906 4.537 7.906h2.708v-3.804s-.146-4.537 4.465-4.537h7.688s4.32.07 4.32-4.175v-7.019S40.374 16 31.885 16zm-4.275 2.454a1.394 1.394 0 1 1 0 2.79 1.393 1.393 0 0 1-1.395-1.395c0-.771.624-1.395 1.395-1.395z"/><path fill="url(#b)" d="M32.115 47.833c8.124 0 7.617-3.523 7.617-3.523l-.01-3.65H31.97v-1.095h10.832S48 40.155 48 31.958c0-8.197-4.537-7.906-4.537-7.906h-2.708v3.803s.146 4.537-4.465 4.537h-7.688s-4.32-.07-4.32 4.175v7.019s-.656 4.247 7.833 4.247zm4.275-2.454a1.393 1.393 0 0 1-1.395-1.395 1.394 1.394 0 1 1 1.395 1.395z"/><defs><linearGradient id="a" x1="19.075" x2="34.898" y1="18.782" y2="34.658" gradientUnits="userSpaceOnUse"><stop stop-color="#387EB8"/><stop offset="1" stop-color="#366994"/></linearGradient><linearGradient id="b" x1="28.809" x2="45.803" y1="28.882" y2="45.163" gradientUnits="userSpaceOnUse"><stop stop-color="#FFE052"/><stop offset="1" stop-color="#FFC331"/></linearGradient></defs></svg>
@@ -48,4 +46,8 @@
       <path fill="#ecedee" d="M226 208H94l5 57h127zm0-114H84l5 56h137zm0 261l-124-33 7 60 117 32z"/>
       <path fill="#fff" d="M226 265h69l-7 73-62 17v59l115-32 26-288H226v56h80l-6 58h-74z"/>
   </svg>
+
+   </div>
+  </div>
+</div>
 
