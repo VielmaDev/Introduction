@@ -1,4 +1,4 @@
-<div aling="center">
+<div>
   <img src="https://github.com/VielmaDev/Introduction/assets/121409131/ddfbf4c3-714e-4e43-a53b-8b766358ed60" width="400px" height="400px" aling="center">
 </div>
 
