@@ -1,5 +1,5 @@
-![django](https://github.com/VielmaDev/Introduction/assets/121409131/7986692d-1680-4b7e-a421-4784ed293d5d)<div class="container">
-  <img src="https://github.com/VielmaDev/Introduction/assets/121409131/ddfbf4c3-714e-4e43-a53b-8b766358ed60" width="350px" height="350px" aling-item="center">
+<div class="container">
+  <img src="https://github.com/VielmaDev/Introduction/assets/121409131/ddfbf4c3-714e-4e43-a53b-8b766358ed60" width="350px"   height="350px" aling-item="center">
 </div>
 
 <div class="container">
@@ -25,7 +25,7 @@
   <div class="row">
     <div class="col">
       <img src="https://github.com/VielmaDev/Introduction/assets/121409131/6256ad4c-fbb0-4393-b4f6-c70be08bd5ed" width="120px" height="120px">
-      <img src="[Uploading django.svg…]()" width="200px" height="200px">
+      <img src="https://github.com/VielmaDev/Introduction/assets/121409131/7986692d-1680-4b7e-a421-4784ed293d5d" height="200px">
       <img src="https://github.com/VielmaDev/Introduction/assets/121409131/320d88d8-d51e-4300-8171-8ca888e23dc0" width="200px" height="200px">
       <img src="https://github.com/VielmaDev/Introduction/assets/121409131/2402c0a2-e4d6-4f17-9949-92178f4eeed5" width="90px" height="90px">
    
