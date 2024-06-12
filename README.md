@@ -21,9 +21,9 @@
 </div>
 
 <div class="container">
-  <img src="https://github.com/VielmaDev/Introduction/assets/121409131/6256ad4c-fbb0-4393-b4f6-c70be08bd5ed" width="100px" height="100px">
+  <img src="https://github.com/VielmaDev/Introduction/assets/121409131/6256ad4c-fbb0-4393-b4f6-c70be08bd5ed" width="150px" height="150px">
   <img src="https://github.com/VielmaDev/Introduction/assets/121409131/320d88d8-d51e-4300-8171-8ca888e23dc0" width="100px" height="100px">
-  <img src="https://github.com/VielmaDev/Introduction/assets/121409131/2402c0a2-e4d6-4f17-9949-92178f4eeed5" width="100px" height="100px">
+  <img src="https://github.com/VielmaDev/Introduction/assets/121409131/2402c0a2-e4d6-4f17-9949-92178f4eeed5" width="90px" height="90px">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 452 520">
       <path fill="#0c73b8" d="M41 460L0 0h451l-41 460-185 52"/>
       <path fill="#30a9dc" d="M226 472l149-41 35-394H226"/>
