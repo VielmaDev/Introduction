@@ -4,7 +4,7 @@
 
 <div class="container">
   <h1>Hola!👋, mi nombre es José Vielma</h1>
-  <h3 text-aling="center">Soy desarrollador Frontend, autodidacta, con pasión por el diseño de web app con Python. </h3>
+  <h3 text-aling="center">Soy desarrollador Frontend, autodidacta, con pasión por el diseño de web app y desktop. </h3>
 </div>
 
 <div class="container">
@@ -24,7 +24,7 @@
 <div class="container">
   <div class="row">
     <div class="col">
-      <img src="https://github.com/VielmaDev/Introduction/assets/121409131/6256ad4c-fbb0-4393-b4f6-c70be08bd5ed" width="140px" height="160px" name="Python">
+      <img src="https://github.com/VielmaDev/Introduction/assets/121409131/6256ad4c-fbb0-4393-b4f6-c70be08bd5ed" width="140px" height="140px" name="Python">
       <img src="https://github.com/VielmaDev/Introduction/assets/121409131/7986692d-1680-4b7e-a421-4784ed293d5d" width="120px" height="120px" name="Django">
       <img src="https://github.com/VielmaDev/Introduction/assets/121409131/5fec75b2-993f-47a2-a0c3-af1fb417067f" width="120px" height="120px" name="Html">
        <img src="https://github.com/VielmaDev/Introduction/assets/121409131/2402c0a2-e4d6-4f17-9949-92178f4eeed5" width="120px" height="120px" name="CSS">
