@@ -4,7 +4,7 @@
 
 <div class="container">
   <h1>Hola!👋, mi nombre es José Vielma</h1>
-  <h3 text-aling="center">Soy desarrollador Frontend, autodidacta, con pasión por el diseño de web app y desktop. </h3>
+  <h3 text-aling="center">Soy desarrollador Frontend, autodidacta, con pasión por el diseño de web y aplicaciones desktop. </h3>
 </div>
 
 <div class="container">
