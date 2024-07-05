@@ -9,8 +9,8 @@
 
 <div class="container">
   <h3>
-    La programación impulsa mi creatividad 💡, transformando mis ideas en realidades digitales. Me gusta explorar las nuevas tecnologías 🤖, que son tendencia y que me permiten 
-    mejorar cada día mis habilidades 🤓, para así, ofrecer soluciones vanguardistas 🚀.
+    La programación impulsa mi creatividad 💡, transformando mis ideas en realidades digitales. Me gusta explorar las nuevas tecnologías 🤖, que son tendencia y me permiten 
+    mejorar cada día mis habilidades 🤓, y ofrecer así, soluciones vanguardistas que se adapten a las diversas necesidades.
   </h3>
 </div>
 
