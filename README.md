@@ -1,5 +1,5 @@
 <div class="container">
-  <img src="https://github.com/VielmaDev/Introduction/assets/121409131/ddfbf4c3-714e-4e43-a53b-8b766358ed60" width="350px" height="350px">
+  <img src="https://github.com/VielmaDev/Introduction/assets/121409131/b70076bb-1c4e-406d-b58b-bc9869a33b66" width="350px" height="350px">
 </div>
 
 <div class="container">
