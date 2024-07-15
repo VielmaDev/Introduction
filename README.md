@@ -1,5 +1,5 @@
-<div class="container" style="aling-content:center">
-  <img src="https://github.com/VielmaDev/Introduction/assets/121409131/b70076bb-1c4e-406d-b58b-bc9869a33b66" width="350px" height="350px">
+<div class="container" style="align-content:center">
+  <img src="https://github.com/VielmaDev/Introduction/assets/121409131/b70076bb-1c4e-406d-b58b-bc9869a33b66" width="350px" height="350px" style="align-content:center">
 </div>
 
 <div class="container">
