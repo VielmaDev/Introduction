@@ -1,4 +1,4 @@
-<div class="container" style="left: 50%; position: absolute;">
+<div class="container" style="left: 50%; position: absolute;"; trasform: traslate(-50%, -50%)>
   <img src="https://github.com/VielmaDev/Introduction/assets/121409131/b70076bb-1c4e-406d-b58b-bc9869a33b66" width="350px" height="350px">
 </div>
 
