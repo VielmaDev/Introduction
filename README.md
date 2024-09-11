@@ -1,5 +1,5 @@
-<div class="container" style="align-content:center">
-  <img src="https://github.com/VielmaDev/Introduction/assets/121409131/b70076bb-1c4e-406d-b58b-bc9869a33b66" width="350px" height="350px" style="align-content:center">
+<div class="container">
+  <img src="https://github.com/VielmaDev/Introduction/assets/121409131/b70076bb-1c4e-406d-b58b-bc9869a33b66" width="350px" height="350px">
 </div>
 
 <div class="container">
@@ -9,8 +9,8 @@
 
 <div class="container">
   <h3>
-    La programación impulsa mi creatividad 💡, transformando mis ideas en realidades digitales. Me gusta explorar las nuevas tecnologías 🤖, que son tendencia y me permiten 
-    mejorar cada día mis habilidades 🤓, y ofrecer así, soluciones vanguardistas 🚀 que se adapten a las diversas necesidades👍.
+    La programación impulsa mi creatividad, transformando mis ideas 💡 en realidades digitales. Me gusta explorar las nuevas tecnologías 🤖, que son tendencia y que me permiten 
+    mejorar cada día mis habilidades y ofrecer así, soluciones vanguardistas que se adapten a las diversas necesidades 🚀.
   </h3>
 </div>
 
