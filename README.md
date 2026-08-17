@@ -57,7 +57,7 @@
 </div>
 
 <div class="container">
-  <h3>IA:</h3>
+  <h3>Artificial Intelligence:</h3>
 </div>
 
 <div class="container">
